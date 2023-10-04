@@ -1,0 +1,4 @@
+name: LifeLink
+version: '${project.version}'
+main: xyz.gamars.LifeLink
+api-version: 1.19
